@@ -5,7 +5,7 @@
 - An end to end application which demonstrates how we can implement authentication in an application using Node.js and JSON Web Tokens and some good practices.
 
 **Road Map :** 
-|  Topic | Progress|
+| Milestone| Progress|
 |--|--|
 | Learn about Node and NPM  |  |
 | Create a web-server and create some basic REST APIs   |  |
