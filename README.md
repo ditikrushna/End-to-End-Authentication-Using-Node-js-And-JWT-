@@ -7,9 +7,9 @@
 **Road Map :** 
 | Milestone| Progress|
 |--|--|
-| Learn about Node and NPM  |  |
-| Create a web-server and create some basic REST APIs   |  |
-|  Learn how express.js framework simplify creation of REST APIs and user it to re-build our APIs   |  |
-|  Implement backend APIs for our small Linkedin app & test by downloading a pre-bulid frontend app.   |  |
-| Learn about JWT and improve our authentication logic  |  |
-| Learn evnironment variables and express middlewares and use them   |  |
+| Learn about Node and NPM  | ✅   |
+| Create a web-server and create some basic REST APIs   | ✅  |
+|  Learn how express.js framework simplify creation of REST APIs and user it to re-build our APIs   | ✅  |
+|  Implement backend APIs for our small Linkedin app & test by downloading a pre-bulid frontend app.   | ✅  |
+| Learn about JWT and improve our authentication logic  | ✅  |
+| Learn evnironment variables and express middlewares and use them   | ✅  |
