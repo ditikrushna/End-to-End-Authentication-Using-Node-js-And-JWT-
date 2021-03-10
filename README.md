@@ -4,6 +4,10 @@
 
 - An end to end application which demonstrates how we can implement authentication in an application using Node.js and JSON Web Tokens and some good practices.
 
+**Learning Objective :**
+
+Node.js , Express.js , Authentication , JWT , Middlewares 
+
 **Road Map :** 
 | Milestone| Progress|
 |--|--|
