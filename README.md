@@ -17,3 +17,7 @@ Node.js , Express.js , Authentication , JWT , Middlewares
 |  Implement backend APIs for our small Linkedin app & test by downloading a pre-bulid frontend app.   | ✅  |
 | Learn about JWT and improve our authentication logic  | ✅  |
 | Learn evnironment variables and express middlewares and use them   | ✅  |
+
+
+Reference : 
+[crio.do](https://www.crio.do/projects/javascript-authentication-nodejs/)
