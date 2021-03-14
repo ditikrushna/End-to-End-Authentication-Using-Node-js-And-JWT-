@@ -19,5 +19,4 @@ Node.js , Express.js , Authentication , JWT , Middlewares
 | Learn evnironment variables and express middlewares and use them   | ✅  |
 
 
-Reference : 
-[crio.do](https://www.crio.do/projects/javascript-authentication-nodejs/)
+
